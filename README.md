@@ -1,4 +1,3 @@
----
 
 ##  Getting Started
 1. Clone or download this repository.
@@ -9,7 +8,6 @@
    - Add or remove skills in the `<ul>` list.
    - Style the page further in `style.css`.
 
----
 
 ##  Customization Ideas
 - Add links to social media in the "Follow Me" button.
@@ -17,7 +15,6 @@
 - Make the layout responsive for mobile devices.
 - Integrate JavaScript for dynamic features (e.g., dark mode toggle).
 
----
 
 ##  Preview
 A simple card-style profile page with:
@@ -26,7 +23,7 @@ A simple card-style profile page with:
 - Skills list
 - Call-to-action button
 
----
+
 
 ##  License
 This project is open-source and free to use for personal or educational purposes.
